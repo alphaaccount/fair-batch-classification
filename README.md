@@ -1,6 +1,6 @@
 # FAIR_batch
 
-There are seven types of experiments presented (all results are for multiple subpopulations):
+There are eight types of experiments presented (all results are for multiple subpopulations):
 For each of the .ipynb files run the cells from top to bottom. The main() function gives the output of our algorithms.
 [Adult] results are in the main folder, all other dataset results are in [Comparative_Results] folder. In all
 the .ipynb files LPCA is implemented as python function [min_sum_lpca] and LPC is implemented as function [min_max_lpc].
@@ -21,3 +21,8 @@ the .ipynb files LPCA is implemented as python function [min_sum_lpca] and LPC i
 
 
 7. To run the LPCA for gerrymandering results for different datasets [7LPCA_BANK_multiple_gerrymendering_comparison.ipynb, 7LPCA_COMPAS_gerrymendering_copararison.ipynb, 7LPCA_adult_gerrymendering_copararison.ipynb, 7LPCA_German_gerrymendering_copararison.ip]
+
+
+8. To run the LPCEO for multiple subpopulations for different datasets [8LPCEO_Bank_multiple.ipynb,8LPCEO_german_multiple.ipynb, 8LPCEO_COMPAS_multiple.ipynb, 8LPCEO_adult_multiple.ipynb]
+
+
